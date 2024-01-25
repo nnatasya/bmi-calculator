@@ -1,0 +1,28 @@
+/* KonversiBilangan.css */
+
+div {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 400px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: #333;
+}
+
+/* Add more styling as needed */
